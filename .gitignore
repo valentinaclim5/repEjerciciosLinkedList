@@ -1,6 +1,7 @@
 # Archivos específicos de Eclipse
 .project .classpath
 .settings/
+.doc/
 
 # Archivos de compilación generados
 bin/
